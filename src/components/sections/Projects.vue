@@ -3,44 +3,12 @@
 const projects = [
   {
     id: 1,
-    name: '个人博客系统',
-    description: '基于 Vue.js + Vite 构建的现代化个人博客，支持主题切换、粒子背景、打字机动画等特效。',
+    name: '聊天机器人小夏',
+    description: '基于Vue3+Vite的AI聊天机器人前端应用',
     tech: ['Vue.js', 'Vite', 'CSS3'],
     image: '/project-placeholder-1.svg',
-    link: 'https://github.com/xiabanglu'
+    link: 'https://github.com/xiabanglu/AIrobot.html'
   },
-  {
-    id: 2,
-    name: '待办事项管理应用',
-    description: '功能完善的 Todo List 应用，支持任务增删改查、分类筛选、数据持久化。',
-    tech: ['Vue.js', 'LocalStorage', 'CSS'],
-    image: '/project-placeholder-2.svg',
-    link: 'https://github.com/xiabanglu'
-  },
-  {
-    id: 3,
-    name: '天气预报查询工具',
-    description: '调用第三方 API 实现的天气查询应用，支持城市搜索、未来七天预报展示。',
-    tech: ['JavaScript', 'API', 'HTML5'],
-    image: '/project-placeholder-3.svg',
-    link: 'https://github.com/xiabanglu'
-  },
-  {
-    id: 4,
-    name: '在线简历生成器',
-    description: '可视化简历编辑器，支持多种模板选择、实时预览、PDF 导出功能。',
-    tech: ['Vue.js', 'JavaScript', 'CSS3'],
-    image: '/project-placeholder-4.svg',
-    link: 'https://github.com/xiabanglu'
-  },
-  {
-    id: 5,
-    name: '学生成绩管理系统',
-    description: '基于 Java + MySQL 的学生成绩管理系统，包含学生信息管理、成绩录入与查询等功能。',
-    tech: ['Java', 'MySQL', 'Swing'],
-    image: '/project-placeholder-5.svg',
-    link: 'https://github.com/xiabanglu'
-  }
 ]
 </script>
 
