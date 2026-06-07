@@ -31,7 +31,6 @@
 
 | 暗黑模式 | 亮色模式 |
 |:--------:|:--------:|
-| ![Dark Mode](https://via.placeholder.com/400x250/0d0f14/4fffcb?text=Dark+Mode+Preview) | ![Light Mode](https://via.placeholder.com/400x250/f8fafc/0d9488?text=Light+Mode+Preview) |
 
 </div>
 
@@ -223,8 +222,6 @@ vercel --prod
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/placeholder" width="100px" alt="夏帮路" style="border-radius: 50%;"/>
-      <br />
       <sub><b>夏帮路</b></sub>
       <br />
       <sub>NUIST · 计算机科学与技术</sub>
