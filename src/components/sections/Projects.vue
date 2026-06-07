@@ -7,7 +7,7 @@ const projects = [
     description: '基于Vue3+Vite的AI聊天机器人前端应用',
     tech: ['Vue.js', 'Vite', 'CSS3'],
     image: '/project-placeholder-1.svg',
-    link: 'https://github.com/xiabanglu/AIrobot.html'
+    link: 'https://xiabanglu.github.io/AIrobot.html',
   },
 ]
 </script>
